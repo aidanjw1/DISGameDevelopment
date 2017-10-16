@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8afe89752a30f4de48f9d45bb6f0308d
+timeCreated: 1505727542
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Player: {fileID: 1677248386542142, guid: 409770bd012d94fa7b204fffb3c28e27, type: 2}
+  - heartPrefab: {fileID: 1058796805402698, guid: 479d1d7b8c13b41d5bdebbf09796d12e,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

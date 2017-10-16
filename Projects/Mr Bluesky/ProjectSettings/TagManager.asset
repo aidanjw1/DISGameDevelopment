@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - player
+  - rectangle
+  - shield
+  - projectile
+  - turret
+  - right click
+  - left click
+  - ground
+  - Undefined
+  - rock
+  - score
+  - coins
+  - enemyCount
+  - playerdeath
+  - enemydeath
+  - BackgroundMusic
+  - EndPoint
+  - MenuPlayer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Level Layer
+  - Shield
+  - Rock
+  - Projectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Player
+    uniqueID: 3545358859
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Level Layer
+    uniqueID: 394699509
+    locked: 0

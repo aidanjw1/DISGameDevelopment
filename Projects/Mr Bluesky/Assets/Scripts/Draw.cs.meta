@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 48861405045c94c77b0efe5db3c47a40
+timeCreated: 1505229071
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - circlePrefab: {fileID: 1476292471603170, guid: 90821429566544f46a465e1a1280e0fd,
+      type: 2}
+  - player: {fileID: 1353151835453768, guid: efec68bf57d64644587064e009391e42, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
