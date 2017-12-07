@@ -1,4 +1,4 @@
-<strong>Blood Cell Shooter</strong>
+# Blood Cell Shooter
 
 3D endless runner game made in Unity3D.
 
